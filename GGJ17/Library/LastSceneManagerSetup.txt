@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Ant's Scene.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: b5cfae606c743d94e86627dd8684e6b2
+timeCreated: 1485036155
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest
+    100002: //RootNode
+    100004: Dragon
+    100006: Head
+    100008: Hips
+    100010: Jaw
+    100012: joint10
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint18
+    100026: joint19
+    100028: joint2
+    100030: joint20
+    100032: joint22
+    100034: joint23
+    100036: joint24
+    100038: joint26
+    100040: joint27
+    100042: joint28
+    100044: joint29
+    100046: joint3
+    100048: joint30
+    100050: joint32
+    100052: joint33
+    100054: joint34
+    100056: joint35
+    100058: joint36
+    100060: joint4
+    100062: joint5
+    100064: joint7
+    100066: joint8
+    100068: joint9
+    100070: Left_Arm
+    100072: Left_Leg
+    100074: Left_Wing
+    100076: locator1
+    100078: Mouth
+    100080: Neck
+    100082: Right_Arm
+    100084: Right_Leg
+    100086: Right_Wing
+    100088: Skeleton
+    100090: Spine
+    100092: Stomach
+    100094: Tail
+    100096: transform52
+    400000: Chest
+    400002: //RootNode
+    400004: Dragon
+    400006: Head
+    400008: Hips
+    400010: Jaw
+    400012: joint10
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint18
+    400026: joint19
+    400028: joint2
+    400030: joint20
+    400032: joint22
+    400034: joint23
+    400036: joint24
+    400038: joint26
+    400040: joint27
+    400042: joint28
+    400044: joint29
+    400046: joint3
+    400048: joint30
+    400050: joint32
+    400052: joint33
+    400054: joint34
+    400056: joint35
+    400058: joint36
+    400060: joint4
+    400062: joint5
+    400064: joint7
+    400066: joint8
+    400068: joint9
+    400070: Left_Arm
+    400072: Left_Leg
+    400074: Left_Wing
+    400076: locator1
+    400078: Mouth
+    400080: Neck
+    400082: Right_Arm
+    400084: Right_Leg
+    400086: Right_Wing
+    400088: Skeleton
+    400090: Spine
+    400092: Stomach
+    400094: Tail
+    400096: transform52
+    2300000: Dragon
+    3300000: Dragon
+    4300000: Dragon
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
