@@ -1,3 +1,3 @@
 # RoadTrip
 
-THIS IS NOT A SAFE .EXE I MEAN ITS SAFE LIEK YOU CAN USE IT BUT IT WON'T START THE GAME IT'S BROKE
+This executable will not play if run, this should only be used as reference to the code and Unity scene if anything
